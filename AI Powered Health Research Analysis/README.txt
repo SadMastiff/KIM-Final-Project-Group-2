@@ -48,6 +48,6 @@ Final Analysis Batch:
 
 Final Analysis Loop is a looped batch analysis of the output of Final Analysis Batch.
 
-It allows the user to loop through the summaries of the studies to produce one full summary of all the summaries.
+It allows the user to loop through the reports of the summaries of the studies to produce one full report on all the studies.
 
-This is not necessary unless you want a generalized report on what the data says. You will lose some nuance in the reports if you condense the reports.
+This is not necessary unless you want a generalized report on what the data says. You will lose a lot of nuance in the final report(s) if you condense the reports, especially if you condense it to one final report.
