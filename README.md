@@ -51,4 +51,3 @@ APA citations were auto-formatted using custom scripts and validated against Pub
 
 This project is proprietary and intended solely for academic and internal business use.  
 No license is granted to use, copy, modify, or distribute this work without express written permission from the authors and affiliated business partners.
-```
