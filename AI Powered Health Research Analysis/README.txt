@@ -3,7 +3,8 @@ To use this software you will need the following:
 Requirements:
 - A dedicated GPU
 - Ollama installed
-- Python installed
+- Python installed 
+- Biopython installed
 
 Instructions:
 
