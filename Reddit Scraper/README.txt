@@ -33,7 +33,7 @@ How each program operates:
   which holds the data of the post.
 
 
-*NOTE* The actual analysis of the data was done in excel. The collect information is stored in "".
+*NOTE* The actual analysis of the data was done in excel. The collect information is stored in "redditScrapedExcel.xlsx".
 
 
 
