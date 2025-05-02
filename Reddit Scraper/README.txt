@@ -27,6 +27,7 @@ How each program operates:
 - This programs works by first gathering the author, post link, upvote count, and subreddit of the
   post. Then it would loop though the comments of "postData.json" to gather the comments of that post.
 - This programs gather the following infomation:
+    - How many anonymous comments and comment count of stored data. 
     - Author, post link, upvote count, and subreddit of the post
     - Author, comment, upvotes, downvotes, dislikes of the comment
 - This infomraiton is stored in "postComments.csv", which holds the data of the comments, and "post.csv",
